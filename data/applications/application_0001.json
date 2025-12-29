@@ -1,0 +1,200 @@
+{
+  "application_id": "application_0001",
+  "external_learning_programs": [
+    {
+      "id": "ext_prog_001",
+      "platform": "Coursera",
+      "program_type": "specialization",
+      "program_title": "AI for Healthcare",
+      "provider": {
+        "organization": "Coursera",
+        "partner_university": "Nanyang Technological University"
+      },
+      "url": "https://www.coursera.org/programs/coursera-for-ntu-students-iasyo/specializations/ai-healthcare",
+      "description": "Specialization covering artificial intelligence methods applied to healthcare, including diagnosis, prognosis, and health data analytics.",
+      "language": "English",
+      "completion_status": "completed",
+      "completion_date": "2024-11-30",
+      "total_estimated_hours": 120,
+      "certificate_issued": true,
+      "courses": [
+        {
+          "id": "ext_course_001",
+          "course_title": "AI in Medical Diagnosis",
+          "estimated_hours": 30,
+          "assessment": "Pass"
+        },
+        {
+          "id": "ext_course_002",
+          "course_title": "AI for Medical Prognosis",
+          "estimated_hours": 30,
+          "assessment": "Pass"
+        },
+        {
+          "id": "ext_course_003",
+          "course_title": "Machine Learning for Healthcare",
+          "estimated_hours": 40,
+          "assessment": "Pass"
+        }
+      ],
+      "capstone": {
+        "exists": true,
+        "title": "AI-driven Healthcare Case Study",
+        "assessment": "Pass"
+      },
+      "evidence": [
+        {
+          "type": "certificate",
+          "filename": "coursera_ai_healthcare_certificate.pdf"
+        }
+      ]
+    }
+  ],
+  "previous_studies": [
+    {
+      "id": "pcs_ext_001",
+      "credit_transfer_type": "",
+      "course_code": "EXT-AI-HEALTHCARE",
+      "name": "{'original': 'AI for Healthcare (Coursera Specialization)', 'english': 'AI for Healthcare'}",
+      "credits": "{'value': 10, 'type': 'ECTS credit, 27 hours work'}",
+      "credit_type": "",
+      "language": "",
+      "assessment": "Pass",
+      "date_of_completion": "2024-11-30",
+      "justification": "Coursera specialization completed via NTU. Learning outcomes correspond to AI applications in healthcare, medical diagnostics, and clinical decision support as defined in the PSP.",
+      "attachments": [
+        {
+          "filename": "coursera_ai_healthcare_certificate.pdf"
+        }
+      ]
+    },
+    {
+      "id": "pcs_ext_002",
+      "credit_transfer_type": null,
+      "course_code": "EXT-AI-Edtech",
+      "name": null,
+      "credits": "{'value': 5, 'type': 'ECTS credit, 27 hours work'}",
+      "credit_type": null,
+      "language": null,
+      "assessment": "Pass",
+      "date_of_completion": "2024-11-30",
+      "justification": "Justification 1",
+      "attachments": [
+        {
+          "filename": "attachments_1.pdf"
+        }
+      ]
+    }
+  ],
+  "previously_acquired_knowledge": [
+    {
+      "id": "pak_ext_001",
+      "assessment": "Pass",
+      "date_of_completion": "2024-11-30",
+      "justification": "Completion of Coursera AI for Healthcare specialization demonstrates applied competence in healthcare AI. Learning evidence accepted without formal ECTS equivalence.",
+      "places_of_performance": [],
+      "attachments": [
+        {
+          "filename": "coursera_ai_healthcare_certificate.pdf"
+        }
+      ]
+    },
+    {
+      "id": "pak_ext_003",
+      "assessment": "5",
+      "date_of_completion": "2024-11-30",
+      "justification": "Extra Course 1",
+      "places_of_performance": [],
+      "attachments": [
+        {
+          "filename": "Extra Course 1.pdf"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "application_id": "application_0001",
+    "schema_version": "1.0",
+    "status": "draft",
+    "created_at": "2025-12-28T00:00:00Z",
+    "updated_at": "2025-12-29T11:37:34.161560"
+  },
+  "applicant": {
+    "name": "Daris Dzakwan Hoesien",
+    "student_id": "2406778",
+    "email": "daris.hoesien@student.oulu.fi",
+    "degree_program": "KY3021",
+    "office": "Linnanmaa",
+    "arrival_group": "242",
+    "specialisation_option": "KY3021:S306",
+    "degree_scope": 120,
+    "completed_credits": 109,
+    "performance_scope": 11,
+    "start_date": "2024-08-01",
+    "end_date": "2028-07-31"
+  },
+  "guidance_discussion": {
+    "date": "2025-12-19",
+    "advisor": "Mirjami Pelkonen"
+  },
+  "places_of_performance": [
+    {
+      "id": "place_001",
+      "type": "work",
+      "place_type": "Folk High Schools",
+      "place_name": "Acme Oy",
+      "job_title": {
+        "fi": "",
+        "en": ""
+      },
+      "description": "Backend and data engineering tasks",
+      "learning_outcomes": "API design, data pipelines, testing",
+      "attachments": [
+        "contract.pdf",
+        "cv.pdf"
+      ]
+    },
+    {
+      "id": "place_002",
+      "type": "education",
+      "place_type": "Performance_1",
+      "place_name": "Place_1",
+      "job_title": {
+        "fi": "",
+        "en": ""
+      },
+      "description": "Description_1",
+      "learning_outcomes": "Knowledge_Objective_1",
+      "attachments": []
+    }
+  ],
+  "exempted_studies": [
+    {
+      "id": "exempt_001",
+      "study": "English B2",
+      "reason": "Prior education",
+      "justification": "Completed degree fully in English.",
+      "complementary_studies": "",
+      "handler": "Faculty Study Services",
+      "attachments": [
+        "certificate.pdf"
+      ]
+    },
+    {
+      "id": "exempt_002",
+      "study": "Study_1",
+      "reason": "Reason_1",
+      "justification": "Justification_1",
+      "complementary_studies": null,
+      "handler": null,
+      "attachments": []
+    }
+  ],
+  "attachments": [
+    {
+      "id": "att_001",
+      "filename": "certificate.pdf",
+      "linked_to": "exempt_001"
+    }
+  ]
+}

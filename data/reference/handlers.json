@@ -1,0 +1,17 @@
+[
+  {
+    "id": "handler_001",
+    "name": "Mirjami Pelkonen",
+    "role": "Academic Advisor"
+  },
+  {
+    "id": "handler_002",
+    "name": "Degree Programme Director",
+    "role": "Programme Director"
+  },
+  {
+    "id": "handler_003",
+    "name": "Faculty Study Services",
+    "role": "Administration"
+  }
+]

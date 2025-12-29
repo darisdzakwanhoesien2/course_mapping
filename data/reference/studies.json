@@ -1,0 +1,14 @@
+[
+  {
+    "code": "KY3021-EN-B2",
+    "name": "English B2",
+    "ects": 3,
+    "type": "language"
+  },
+  {
+    "code": "CS101",
+    "name": "Introduction to Programming",
+    "ects": 5,
+    "type": "core"
+  }
+]

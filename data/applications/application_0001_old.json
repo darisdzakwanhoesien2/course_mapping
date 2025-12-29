@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "application_id": "application_0001",
+    "schema_version": "1.0",
+    "status": "draft",
+    "created_at": "2025-12-28T00:00:00Z",
+    "updated_at": "2025-12-28T00:00:00Z"
+  },
+
+  "applicant": {
+    "name": "Daris Dzakwan Hoesien",
+    "student_id": "2406778",
+    "email": "daris.hoesien@student.oulu.fi",
+    "degree_program": "KY3021",
+    "office": "Linnanmaa",
+    "arrival_group": "242",
+    "specialisation_option": "KY3021:S306",
+    "degree_scope": 120,
+    "completed_credits": 109,
+    "performance_scope": 11,
+    "start_date": "2024-08-01",
+    "end_date": "2028-07-31"
+  },
+
+  "guidance_discussion": {
+    "date": "2025-12-19",
+    "advisor": "Mirjami Pelkonen"
+  },
+
+  "places_of_performance": [
+    {
+      "id": "place_001",
+      "type": "work",
+      "place_type": "Software Company",
+      "place_name": "Acme Oy",
+      "job_title": {
+        "fi": "Ohjelmistokehittäjä",
+        "en": "Software Developer"
+      },
+      "description": "Backend and data engineering tasks",
+      "learning_outcomes": "API design, data pipelines, testing",
+      "attachments": ["contract.pdf", "cv.pdf"]
+    }
+  ],
+
+  "acquired_knowledge": [
+    {
+      "id": "knowledge_001",
+      "credit_transfer_type": "inclusion",
+      "handler": "Degree Programme Director",
+      "assessment": "Pass",
+      "completion_date": "2023-06-01",
+      "linked_places": ["place_001"],
+      "justification": "Work experience covers learning outcomes of the course."
+    }
+  ],
+
+  "previous_studies": [],
+
+  "exempted_studies": [
+    {
+      "id": "exempt_001",
+      "study": "English B2",
+      "reason": "Prior education",
+      "justification": "Completed degree fully in English.",
+      "complementary_studies": "",
+      "handler": "Faculty Study Services",
+      "attachments": ["certificate.pdf"]
+    }
+  ],
+
+  "attachments": [
+    {
+      "id": "att_001",
+      "filename": "certificate.pdf",
+      "linked_to": "exempt_001"
+    }
+  ]
+}
